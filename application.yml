@@ -8,8 +8,4 @@ RTS:
   koronaUsersUrl : https://128.koronacloud.com/web/api/v1/{token}/users/page/{limit}/{offset}/
   koronaOrganizationalUnitsUrl : https://128.koronacloud.com/web/api/v1/{token}/organizationalUnits/page/{limit}/{offset}/
   coreMenuPath: /Users/raghu/menu/rtsMenu.json
-  koronaReceiptsUrl : https://128.koronacloud.com/web/api/v1/{token}/fullReceipts/updates/{revision}/{limit}/{offset}/
-  koronaSuppliersUrl : https://128.koronacloud.com/web/api/v1/{token}/suppliers/page/{limit}/{offset}/
-  koronaSuppliersUpdateUrl : https://128.koronacloud.com/web/api/v1/{token}/suppliers/updates/{revision}/{limit}/{offset}/
-  koronaCommodityGroupUrl : https://128.koronacloud.com/web/api/v1/{token}/commodityGroups/page/{limit}/{offset}/
-  koronaCommodityGroupUpdateUrl : https://128.koronacloud.com/web/api/v1/{token}/commodityGroups/updates/{revision}/{limit}/{offset}/
+  

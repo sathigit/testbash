@@ -1,5 +1,3 @@
 RTS:
- eb/api/v1/{token}/suppliers/page/{limit}/{offset}/
-  koronaSuppliersUpdateUrl : https://128.koronacloud.com/web/api/v1/{token}/suppliers/updates/{revision}/{limit}/{offset}/
-  koronaCommodityGroupUrl : https://128.koronacloud.com/web/api/v1/{token}/commodityGroups/page/{limit}/{offset}/
-  koronaCommodityGroupUpdateUrl : https://128.koronacloud.com/web/api/v1/{token}/commodityGroups/updates/{revision}/{limit}/{offset}/
+ eb/api/v1/{token}/suppliers/page/{limit}/{offset}
+  
